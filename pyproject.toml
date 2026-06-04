@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ternary-fitness"
+version = "0.1.0"
+description = "Fitness evaluation, landscape modeling, and selection pressure for ternary evolutionary systems"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "SuperInstance" }]
+
+[project.urls]
+Repository = "https://github.com/SuperInstance/ternary-fitness-python"
