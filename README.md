@@ -1,3 +1,5 @@
-# ternary-fitness
+# ternary-fitness-python
 
-Fitness evaluation, landscape modeling, and selection pressure for ternary evolutionary systems.
+Python bindings for [ternary-fitness](https://github.com/SuperInstance/ternary-fitness) — ternary-valued fitness landscapes for evolutionary computation.
+
+See the Rust crate for full documentation.
